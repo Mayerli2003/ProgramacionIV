@@ -8,9 +8,11 @@ package com.mycompany.ejercicio1;
  *
  * @author mmaye
  */
+import javax.swing.JOptionPane;
 public class Ejercicio1 {
 
     public static void main(String[] args) {
-        System.out.println("Bienvenido al mundo de Java");
+        JOptionPane.showMessageDialog(null,   "Bienvenido al mundo de Java", "Resultados", JOptionPane.PLAIN_MESSAGE);
+      System.exit (0);
     }
 }
