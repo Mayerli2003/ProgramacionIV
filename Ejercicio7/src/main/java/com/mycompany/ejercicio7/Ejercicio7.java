@@ -25,7 +25,7 @@ public class Ejercicio7 {
         
         
         
-        JOptionPane.showMessageDialog(null, "Los resultados  con el radio "+Radio+"cm :"+" \n El área del círculo: "+ AreaC +"cm²"+"\n La superficie de la esfera: "+ SuperficieEsfera+"cm²"+"\n Volumen de la esfera: "+VolumenEsfera+"cm³",  "Resultados", JOptionPane.PLAIN_MESSAGE);
+        JOptionPane.showMessageDialog(null, "Los resultados  con el radio de "+Radio+"cm :"+" \n El área del círculo: "+ AreaC +"cm²"+"\n La superficie de la esfera: "+ SuperficieEsfera+"cm²"+"\n Volumen de la esfera: "+VolumenEsfera+"cm³",  "Resultados", JOptionPane.PLAIN_MESSAGE);
       System.exit (0);
     }
 }
